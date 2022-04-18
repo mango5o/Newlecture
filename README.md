@@ -18,12 +18,19 @@
 컬렉션의 부재 → 언어에 컬렉션을 **포함**  
 글로벌한 문자 데이터처리의 복잡성 → 다양한 인코딩 문자열 기능 개선 
 
-----
+- - -
 
 **🤍 자바언어의 특징 🤍**   
 <br>
 ① 간결성  
 ② 언어에 컬렉션 포함  
 ③ **완전한 객체지향** 언어  
+<br>   
+- - -
+<br>
+**🤍 새로운 WORA API의 탄생 - platform independent 🤍**
+
+
+
 <br>
 ['출처'](https://www.youtube.com/watch?v=-KXFcAlXixk&list=PLq8wAnVUcTFV7wEVu2qcAChtAOYusZwzj&index=6)
