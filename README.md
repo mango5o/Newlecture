@@ -100,4 +100,4 @@ JDK (Complier / Debuger) 안에 JRE(JIT Complier / Garbage Collector / Security 
 
 <br>
 
-['출처 바로가기'] (https://www.youtube.com/watch?v=tvciu9_jHjQ&list=PLq8wAnVUcTFV7wEVu2qcAChtAOYusZwzj&index=1)
+[출처 바로가기](https://www.youtube.com/watch?v=tvciu9_jHjQ&list=PLq8wAnVUcTFV7wEVu2qcAChtAOYusZwzj&index=1)
