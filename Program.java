@@ -1,14 +1,32 @@
-package ex01.io;
-// 16강 입출력 관련 java 파일
-public class Program {
+/* 콘솔 문자열 출력 PrintStream */	
 
+package ex02.io.PrintStream;
+public class Program {
 	public static void main(String[] args) {
 		
-		System.out.write(3); // 코드값만 입력한 예시
-		System.out.write('3'); // 3이라는 기호를 입력한 예시
+		int kor1, kor2, kor3;
+		int total;
+		float avg;
 		
-		System.out.flush();
+		kor1 = 50;
+		kor2 = 60;
+		kor3 = 80;
+		
+		total = kor1 + kor2 + kor3;
+		avg = total/3;
+		
+		/* ----성적 출력 부분---- */
+		
+		System.out.print("┌───────────────┐");
+		System.out.print("│		성적 출력	  │");
+		System.out.print("└───────────────┘");
+		
+		System.out.print("국어1 : 0");
+		System.out.print("국어2 : 0");
+		System.out.print("국어3 : 0");
+		System.out.print("총점 : 0");
+		System.out.print("평균 : 0.00");
+		System.out.print("────────────────────");
 	}
 	
-
 }
